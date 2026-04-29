@@ -17,19 +17,8 @@ Haya Abusada, Jake Hewett, Jayden Pearson, Jack Uehlinger, Sara Vorhaben
 
 ### Designs
 Includes all technical assets used in building and implementing the system:
-
-- Source code
-- Schematics
-- Data and datasets
-- Data sheets
-- Freeware software tools
-
-#### Subcategories:
 - Low-Fidelity Designs
 - CAD Designs
-- Camera Code
-- Website Code
-- Server Code
 - Raspberry Pi Data Sheet
 - Raspberry Pi Camera Data Sheet
 
