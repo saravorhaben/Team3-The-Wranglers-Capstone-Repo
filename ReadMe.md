@@ -1,7 +1,6 @@
 # CSCE 483: Car Rider Student Pick-Up System ( Team #3: The Wranglers )
 This repository contains all design materials, documentation, code and media developed for the **Car Rider Student Pick Up System**. 
-Team 3: The Wranglers
-Haya Abusada, Jake Hewett, Jayden Pearson, Jack Uehlinger, Sara Vorhaben
+Team 3: The Wranglers - Haya Abusada, Jake Hewett, Jayden Pearson, Jack Uehlinger, Sara Vorhaben
 
 ---
 ## Objectives 
